@@ -1,0 +1,4 @@
+[\w^.-_]+\@[a-z]+([\.[^\.][a-z]{2,})+ mail
+\+\d{1,4}\ ?\(?\-?\d{2,5}\)?\ ?\-?[\d\ \-]{4,12}$ dunyadaki telefon kodlari
+^(ftp|http|https):\/\/(www.)?[^ "]+$ website larin yazilisi
+
